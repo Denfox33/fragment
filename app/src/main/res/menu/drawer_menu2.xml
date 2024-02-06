@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_add"
+        android:icon="@drawable/ic_add"
+        android:title="Agregar">
+    </item>
+
+    <item
+        android:id="@+id/nav_see"
+        android:icon="@drawable/ic_see"
+        android:title="Ver">
+    </item>
+
+    <item
+        android:id="@+id/nav_edit"
+        android:icon="@drawable/ic_edit"
+        android:title="Editar">
+    </item>
+    <item
+        android:id="@+id/nav_eventos"
+        android:icon="@drawable/ic_event"
+        android:title="Eventos">
+
+    </item>
+    <item
+        android:id="@+id/nav_noti"
+        android:icon="@drawable/ic_noti"
+        android:title="Notificaciones"></item>
+    <item
+        android:id="@+id/nav_cerrar"
+        android:icon="@drawable/ic_close"
+        android:title="Cerrar"></item>
+
+</menu>

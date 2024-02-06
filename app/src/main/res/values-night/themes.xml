@@ -1,0 +1,39 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">#8772BF</item>
+        <item name="colorPrimaryVariant">#3BAE61</item>
+
+        <item name="colorOnPrimary">#EBF5FB</item>
+        <item name="colorOnSurface">#616EE1</item>
+        <item name="colorSurface">#0B1343</item>
+        <item name="colorOnBackground">#D0DC4F4F</item>
+
+        <item name="colorSecondary">#485CDC</item>
+        <item name="colorSecondaryVariant">#8772BF</item>
+        <item name="colorOnSecondary">#EBF5FB</item>
+
+        <item name="colorError">#FF0000</item>
+
+
+
+
+        <item name="colorControlNormal">#479BCF</item>
+        <item name="colorControlActivated">#338FC8</item>
+        <item name="colorControlHighlight">#3CA7EA</item>
+
+
+        <item name="colorPrimaryDark">#71628F</item>
+
+
+        <!-- CAMBIAME EL COLOR DE LOS ICONOS DEL MENU BOTTOM NAVIGATION MENU -->
+        <item name="itemIconTint">#4FA3D8</item>
+
+
+        <!-- Color de los iconos del menu bottom navigation menu -->
+    </style>
+
+
+</resources>

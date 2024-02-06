@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Estilos para el tema diurno -->
+        <!-- ... tus configuraciones diurnas ... -->
+    </style>
+
+    <style name="AppTheme.Dark" parent="ThemeOverlay.AppCompat.Dark">
+        <!-- Estilos para el tema nocturno -->
+        <!-- ... tus configuraciones nocturnas ... -->
+        <item name="colorPrimary">@color/my_dark_primary</item>
+    </style>
+
+
+</resources>
